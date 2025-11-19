@@ -252,7 +252,7 @@ See the guide here: https://gist.github.com/aamiaa/204cd9d42013ded9faf646fae7f89
 
 ## License
 
-[MIT License](LICENSE)© Mark Terence Tiglao Sukh Daku - 2025
+[MIT License](LICENSE)© Yae Miko - 2025
 
 ---
 
